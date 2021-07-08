@@ -1,6 +1,6 @@
 # Robot Arm Project Paper
 
-### A paper for Robot Arm which is part of Fighting Robot shows the following outlines :
+### A paper for Robot Arm -which is part of Fighting Robot- contains the following outlines :
 - ###  Project Idea. 
 - ###  Group Organizational Structure.
 - ###  Project Plan.
